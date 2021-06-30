@@ -18,7 +18,7 @@ I am an engineering manager with 10+ years of passionate software engineering.
 
 ## Blog posts
 
--[The Best Way to Remove Duplicate From a List in JavaScript](https://pierremary.com/javascript/array/reduce/2019/11/17/best-way-to-remove-duplicate-from-list-javascript.html)
+- [The Best Way to Remove Duplicate From a List in JavaScript](https://pierremary.com/javascript/array/reduce/2019/11/17/best-way-to-remove-duplicate-from-list-javascript.html)
 - [The Best Way to Replace All String Occurrences in JavaScript](https://pierremary.com/javascript/replace/string/2019/10/21/remove-all-whitespacefrom-a-string-in-javascript.html)
 - [Memoization in JavaScript](https://pierremary.com/javascript/memoization/2019/09/14/memoization-and-lazy-evaluation.html)
 - [The container stacking problem](https://pierremary.com/javascript/stack/2019/08/02/the-container-stacking-problem.html)
